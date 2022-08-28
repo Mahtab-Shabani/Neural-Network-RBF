@@ -24,6 +24,7 @@ MN=10 :
 ![image](https://user-images.githubusercontent.com/21992001/187099729-1f18b400-1db5-40d2-8eec-1218db288286.png)
 
 MN=20 :
+
 ![image](https://user-images.githubusercontent.com/21992001/187099734-1658e126-ba02-4c10-923e-daee56ed09e9.png)
 
 
