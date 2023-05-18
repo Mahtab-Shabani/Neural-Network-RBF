@@ -1,23 +1,23 @@
 # Neural-Network-RBF
 
-Input data:
-
+### Input data:
+```
 x = -pi/2:0.01:pi/2;
+```
 
-Test data:
-
+### Test data:
+```
 xtest = -pi:0.1:pi;
+```
 
-# Training
-
+### Training
+```
 MN=30;
-
 DF=1;
-
 net = newrb(x,y,0,1,MN,DF);
+```
 
-
-# Results:
+### Results:
 
 MN=10 :
 
@@ -28,10 +28,10 @@ MN=20 :
 ![image](https://user-images.githubusercontent.com/21992001/187099734-1658e126-ba02-4c10-923e-daee56ed09e9.png)
 
 
-# Changing data:
-
+### Changing data:
+```
 xtest = -2*pi:0.1:2*pi;
 
 x = -3*pi/2:0.01:3*pi/2;
-
+```
 ![image](https://user-images.githubusercontent.com/21992001/187099831-343ae0f7-a2a1-4ef2-b686-e575cc90cfd9.png)
