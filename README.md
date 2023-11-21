@@ -1,5 +1,7 @@
 # Neural-Network-RBF
 
+Radial Basis Function (RBF) Networks are a particular type of Artificial Neural Network used for function approximation problems. In this repository implemented a simple code to show the result of RBF network. 
+
 ### Input data:
 ```
 x = -pi/2:0.01:pi/2;
